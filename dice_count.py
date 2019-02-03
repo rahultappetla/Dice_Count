@@ -4,7 +4,7 @@ import os
 
 #setting up image input stream directory
 names = ['dice{}.png'.format(i) for i in range(1, 7)]
-input_dir = r'C:\Users\ASHOK NEELA\Desktop\input'
+input_dir = r'C:\Users\RAHUL TAPPETLA\Desktop\input'
 m=0
 
 for name in names:
